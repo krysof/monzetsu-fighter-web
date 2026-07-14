@@ -1,0 +1,11 @@
+{
+  "id": "./",
+  "name": "Monzetsu Fighter portable",
+  "short_name": "Monzetsu",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#090613",
+  "theme_color": "#090613"
+}
